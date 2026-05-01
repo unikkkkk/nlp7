@@ -1,0 +1,15 @@
+openai-whisper
+SpeechRecognition
+noisereduce
+librosa
+soundfile
+sounddevice
+gtts
+nltk
+wordcloud
+numpy
+pandas
+matplotlib
+scipy
+deep-translator
+sumy

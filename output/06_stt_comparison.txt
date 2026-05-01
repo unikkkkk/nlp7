@@ -1,0 +1,7 @@
+=== STT Comparison: noisy vs denoised ===
+noisy_words:    456
+denoised_words: 477
+noisy_chars:    3573
+denoised_chars: 3719
+diff_words:     +21
+diff_pct:       +4.6%
